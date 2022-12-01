@@ -1,5 +1,5 @@
 [package]
-name = "ffai"
+name = "rust-rocket-webapp-boilerplate"
 version = "0.1.0"
 edition = "2021"
 
